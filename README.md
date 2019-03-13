@@ -1,4 +1,4 @@
-#Alfred Workflow for Area Code Lookups
+# Alfred Workflow for Area Code Lookups
 
 In order to use this workflow, just do the following:
 
