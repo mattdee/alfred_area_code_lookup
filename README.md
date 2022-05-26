@@ -3,6 +3,7 @@
 In order to use this workflow, just do the following:
 
 run the setup.sh script to install like so:
+
 `bash setup.sh`
 
 otherwise set up manually
