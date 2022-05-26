@@ -2,6 +2,10 @@
 
 In order to use this workflow, just do the following:
 
+run the setup.sh script to install 
+
+else
+
 1) Create the following directory in your HOME folder like so:
 
 `mkdir ~/.zip_code_database`
