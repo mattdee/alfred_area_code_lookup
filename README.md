@@ -2,9 +2,10 @@
 
 In order to use this workflow, just do the following:
 
-run the setup.sh script to install 
+run the setup.sh script to install like so:
+`bash setup.sh`
 
-else
+otherwise set up manually
 
 1) Create the following directory in your HOME folder like so:
 
